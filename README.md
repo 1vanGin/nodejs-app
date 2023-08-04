@@ -40,3 +40,11 @@ apt install git
 ```
 git clone <project-url>
 ```
+12. Перейти в папку с проектом
+```
+cd nodejs-app/
+```
+13. Поднять докер
+```
+sudo docker compose up -d
+```
