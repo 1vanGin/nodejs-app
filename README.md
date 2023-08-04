@@ -23,7 +23,7 @@ sudo docker run -d simplenodeapp
 ```
 sudo docker compose up -d
 ```
-8. Подключаемся к серверу (вы тут!)
+8. Подключаемся к серверу
 ```
 ssh root@<ip>
 ```
