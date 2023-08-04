@@ -1,6 +1,6 @@
 # Шаги для разворачивания Node.js приложения с Docker
 
-1. node init
+1. npm init
 2. файл index.js (для node http)
    или установить express
 ```

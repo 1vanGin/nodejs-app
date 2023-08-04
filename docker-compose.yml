@@ -1,6 +1,6 @@
 services:
   nodeapp:
     build: .
-    image: 1vangin/nodeapp
+    image: 1vangin/simplenodeapp
     ports:
       - "3000:3000"
