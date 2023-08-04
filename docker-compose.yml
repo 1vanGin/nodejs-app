@@ -1,0 +1,6 @@
+services:
+  nodeapp:
+    build: .
+    image: 1vangin/nodeapp
+    ports:
+      - "3000:3000"
